@@ -1,4 +1,4 @@
-import com.gmail.rayanral.*
+package com.gmail.rayanral.connectFour
 
 fun main() {
     println("Connect Four")

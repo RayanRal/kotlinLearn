@@ -1,4 +1,4 @@
-package com.gmail.rayanral
+package com.gmail.rayanral.connectFour
 
 data class Player(val name: String, val symbol: String) {
     companion object {

@@ -1,4 +1,4 @@
-package com.gmail.rayanral
+package com.gmail.rayanral.connectFour
 
 data class Dimensions(val rows: Int, val cols: Int) {
 
